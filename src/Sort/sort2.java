@@ -38,6 +38,7 @@ public class sort2 {
         while(i<=mid){//将左边剩余元素填充进temp中
             temp[t++] = array[i++];
         }
+
         while(j<=right){//将右序列剩余元素填充进temp中
             temp[t++] = array[j++];
         }

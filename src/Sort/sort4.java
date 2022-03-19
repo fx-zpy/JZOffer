@@ -25,6 +25,7 @@ public class sort4 {
         if(arr.size()%2==0){
             return (double)(arr.get(arr.size()/2)+arr.get(arr.size()/2-1))/2;
         } else{
+
             return (double)arr.get(arr.size()/2);
         }
     }

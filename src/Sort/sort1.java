@@ -27,6 +27,7 @@ public class sort1 {
             hashSet.add(numbers[i]);
 
         }
+
         return -1;
     }
 }

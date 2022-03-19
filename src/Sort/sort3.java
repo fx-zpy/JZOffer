@@ -31,6 +31,7 @@ public class sort3 {
         for (int i = 0; i <k ; i++) {
             arr.add(input[i]);
         }
+
         return arr;
     }
 
